@@ -1,4 +1,5 @@
 require 'pry'
+
 class Artist
   attr_accessor :name
   @@song_count = 0
