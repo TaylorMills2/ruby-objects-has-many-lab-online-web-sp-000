@@ -1,5 +1,3 @@
-require 'pry'
-
 class Artist
   attr_accessor :name
   @@song_count = 0
@@ -30,5 +28,6 @@ class Artist
   end
 
 end 
-  31  lib/author.rb
+
+31  lib/author.rb
   
