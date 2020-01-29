@@ -30,4 +30,5 @@ class Artist
 end 
 
 31  lib/author.rb
-  
+
+end  
